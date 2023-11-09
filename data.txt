@@ -1,0 +1,10 @@
+Terraria|2011|9.99|180_000_000
+Stardew Valley|2016|14.99|150_000_000
+RimWorld|2018|34.99|95_000_000
+Factorio|2020|35.00|91_000_000
+Don't Starve Together|2016|14.99|82_000_000
+Hollow Knight|2017|14.99|82_000_000
+鬼谷八荒 Tale of Immortal|2023|19.99|69_000_000
+Project Zomboid|2013|19.99|69_000_000
+The Binding of Isaac:Rebirth|2014|14.99|66_000_000
+Bloons TD 6|2018|13.99|66_000_000
